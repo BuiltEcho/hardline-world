@@ -1,0 +1,27 @@
+{
+  "sourceRevision": "0d6826085f4d68daaa3ef3f0c5bd82a0f388cbac",
+  "applicationFiles": {
+    "index.html": "a34514abfd260aedbfaf817e068fe5df7721c93e1c78c56e13ad68a03c622d77",
+    "hardline-icon.png": "250f42c832bb80e69c88f0313363f328ffd5d6da504532b528832fc31b4ad089",
+    "assets/index-Bg7xsyIp.js": "8e6b5bb91280f48438bbaadf6d6e9ce489f4bf778f5441143ae7beac43e93876",
+    "assets/three-Do1fF1zT.js": "23b47237d6201d89b1735fd61235abbe37e9a12d85cc594b03ccd0dc552e04c2",
+    "assets/index-mYJCwri9.css": "3a76d29010305883b4e8728b6539a19f6932d398e1fc543f256f32b34efbfb22",
+    "characters/ATTRIBUTION.md": "ac5ea7ea60d316a315222838678f18e0906d6c8047712f4ff5bb5766a1db57d0",
+    "characters/README.md": "ef5c68f3283bc1f20555b73ee75a435a466dc0ecb892547f46bd8f012f60db08",
+    "characters/credits.html": "84d652ab4f5c42a40c92ca4f5396f48e25500d6fac3dd05153d519008e877a37",
+    "characters/manifest.json": "6b928854a2c18589456ea0f6d6e28c5418cbcee29f3bbafbbe985ca47fd1fde8",
+    "characters/worker-female.glb": "206b021d376f19600114214e81cccb849ebb9bbae62a140878500747f673acc3",
+    "characters/worker-male.glb": "c5975bcca84b75f68dd3342e57450378f248df969fb8ee7d38a2002f7567d722",
+    "characters/licenses/CC-BY-3.0.txt": "e6bc9e9c474700b708f568bac9e5a8a9bcb2b1dad53442f5ba449fcb848b8e76",
+    "characters/licenses/CC0-1.0.txt": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+    "characters/sources/worker-female.source.json": "2a475c0a1a980f1dc0dd44e54e121a57a4dae8b34e66d83885b8306e177c0802",
+    "characters/sources/worker-male.source.json": "1c0529fc3988bbeaf04ba4f284421a01e8674c8c0f3ee4b0c966ce13c950f3a0"
+  },
+  "verification": {
+    "gameCI": "https://github.com/BuiltEcho/builtecho/actions/runs/40687871655",
+    "jobsPassed": 25,
+    "campaigns": 18,
+    "chapters": 108
+  },
+  "sourceRepository": "Private Hardline prototype branch; no main app integration"
+}

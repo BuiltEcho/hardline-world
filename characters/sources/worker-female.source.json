@@ -1,0 +1,41 @@
+{
+  "sourcePage": "https://poly.pizza/m/E8079Ahx7k",
+  "retrievedDate": "2026-10-26",
+  "sourcePageHtmlSha256": "33346b7eb03e0efea4e18198f60c4af4504f43f1fe08f598e03e46f2fa9a8915",
+  "creatorSuppliedModelMetadata": {
+    "Title": "Worker",
+    "UploadDate": "2022-04-10T09:11:37.706Z",
+    "ResourceID": "c0253218-85f2-4d67-b3f2-a4611a7901fe",
+    "PublicID": "E8079Ahx7k",
+    "Likes": 11,
+    "CommentCount": 0,
+    "Tris": 3422,
+    "Views": "1.56k",
+    "Downloads": "4.88k",
+    "Creator": {
+      "Username": "Quaternius",
+      "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+      "Socials": {
+        "Twitter": "quaternius",
+        "Pateron": "quaternius",
+        "Website": "https://quaternius.com/"
+      }
+    },
+    "Category": "People & Characters",
+    "Tags": ["Helmet", "Hardhat", "Person", "Girl", "Character"],
+    "Orbit": {
+      "phi": "1.34053",
+      "radius": "100%",
+      "theta": "0.11037"
+    },
+    "Background": {
+      "one": "#3949ab",
+      "two": "hsl(232deg, 50%, 15%)",
+      "type": "Radial"
+    },
+    "Visibility": "Public",
+    "Type": "FBX",
+    "Licence": "CC-BY 3.0",
+    "Animated": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "sourcePage": "https://poly.pizza/m/Yg2bQZO6Hj",
+  "retrievedDate": "2026-10-26",
+  "sourcePageHtmlSha256": "611af881334ebdb87a8662ceb0d251faaa95e6344c5e279bcfbd9ea901057f93",
+  "creatorSuppliedModelMetadata": {
+    "Title": "Worker",
+    "UploadDate": "2022-02-22T02:43:13.309Z",
+    "ResourceID": "3a5f3056-ffe6-42eb-bd52-122afcbd22b2",
+    "PublicID": "Yg2bQZO6Hj",
+    "Likes": 18,
+    "CommentCount": 0,
+    "Tris": 3350,
+    "Views": "3.99k",
+    "Downloads": "8.28k",
+    "Creator": {
+      "Username": "Quaternius",
+      "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+      "Socials": {
+        "Twitter": "quaternius",
+        "Pateron": "quaternius",
+        "Website": "https://quaternius.com/"
+      }
+    },
+    "Category": "People & Characters",
+    "Tags": ["Clothing", "Helmet", "Hardhat", "Person", "Construction"],
+    "Orbit": {
+      "phi": "1.29323",
+      "radius": "100%",
+      "theta": "0.35476"
+    },
+    "Background": {
+      "one": "#3949ab",
+      "two": "hsl(232deg, 50%, 15%)",
+      "type": "Radial"
+    },
+    "Visibility": "Public",
+    "Type": "FBX",
+    "Licence": "CC0 1.0",
+    "Animated": true
+  }
+}

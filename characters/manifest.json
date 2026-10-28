@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-10-27T03:01:03.578280+00:00",
+  "assets": [
+    {
+      "file": "worker-male.glb",
+      "title": "Worker",
+      "creator": "Quaternius",
+      "sourcePage": "https://poly.pizza/m/Yg2bQZO6Hj",
+      "sourceBinary": "https://static.poly.pizza/3a5f3056-ffe6-42eb-bd52-122afcbd22b2.glb",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "originalBytes": 1344928,
+      "originalSha256": "9c28614f465b7dc105f908c20c22fc045f4b07caf8c5ef0e9f8049eceb6dd38d",
+      "bundledBytes": 816092,
+      "bundledSha256": "c5975bcca84b75f68dd3342e57450378f248df969fb8ee7d38a2002f7567d722",
+      "triangles": 5240,
+      "meshGroups": 4,
+      "materialPrimitives": 13,
+      "materials": [
+        "Black",
+        "Grey",
+        "Brown2",
+        "Brown",
+        "Worker_Yellow",
+        "Worker_Vest",
+        "LightBrown",
+        "Skin",
+        "Eyebrows",
+        "Eye",
+        "Moustache"
+      ],
+      "images": 0,
+      "textures": 0,
+      "skinJointCount": 62,
+      "animations": [
+        "CharacterArmature|Idle",
+        "CharacterArmature|Idle_Neutral",
+        "CharacterArmature|Interact",
+        "CharacterArmature|Run",
+        "CharacterArmature|Walk",
+        "CharacterArmature|Wave"
+      ],
+      "removedAnimations": [
+        "CharacterArmature|Death",
+        "CharacterArmature|Gun_Shoot",
+        "CharacterArmature|HitRecieve",
+        "CharacterArmature|HitRecieve_2",
+        "CharacterArmature|Idle_Gun",
+        "CharacterArmature|Idle_Gun_Pointing",
+        "CharacterArmature|Idle_Gun_Shoot",
+        "CharacterArmature|Idle_Sword",
+        "CharacterArmature|Kick_Left",
+        "CharacterArmature|Kick_Right",
+        "CharacterArmature|Punch_Left",
+        "CharacterArmature|Punch_Right",
+        "CharacterArmature|Roll",
+        "CharacterArmature|Run_Back",
+        "CharacterArmature|Run_Left",
+        "CharacterArmature|Run_Right",
+        "CharacterArmature|Run_Shoot",
+        "CharacterArmature|Sword_Slash"
+      ],
+      "geometryAndRetainedSamplesByteIdentical": true,
+      "sourceMetadata": "sources/worker-male.source.json"
+    },
+    {
+      "file": "worker-female.glb",
+      "title": "Worker",
+      "creator": "Quaternius",
+      "sourcePage": "https://poly.pizza/m/E8079Ahx7k",
+      "sourceBinary": "https://static.poly.pizza/c0253218-85f2-4d67-b3f2-a4611a7901fe.glb",
+      "license": "CC-BY-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "originalBytes": 1499720,
+      "originalSha256": "078e459440ae30ce6aa186f5fc1a5db075f308387c34eec4ada8c8f538ae2646",
+      "bundledBytes": 922440,
+      "bundledSha256": "206b021d376f19600114214e81cccb849ebb9bbae62a140878500747f673acc3",
+      "triangles": 6112,
+      "meshGroups": 4,
+      "materialPrimitives": 12,
+      "materials": [
+        "Skin",
+        "Worker_Vest",
+        "Worker_Yellow",
+        "White",
+        "Black",
+        "DarkBrown",
+        "Brown",
+        "Brown_02",
+        "Brown2"
+      ],
+      "images": 0,
+      "textures": 0,
+      "skinJointCount": 62,
+      "animations": [
+        "CharacterArmature|Idle",
+        "CharacterArmature|Idle_Neutral",
+        "CharacterArmature|Interact",
+        "CharacterArmature|Run",
+        "CharacterArmature|Walk",
+        "CharacterArmature|Wave"
+      ],
+      "removedAnimations": [
+        "CharacterArmature|Death",
+        "CharacterArmature|Gun_Shoot",
+        "CharacterArmature|HitRecieve",
+        "CharacterArmature|HitRecieve_2",
+        "CharacterArmature|Idle_Gun",
+        "CharacterArmature|Idle_Gun_Pointing",
+        "CharacterArmature|Idle_Gun_Shoot",
+        "CharacterArmature|Idle_Sword",
+        "CharacterArmature|Kick_Left",
+        "CharacterArmature|Kick_Right",
+        "CharacterArmature|Punch_Left",
+        "CharacterArmature|Punch_Right",
+        "CharacterArmature|Roll",
+        "CharacterArmature|Run_Back",
+        "CharacterArmature|Run_Left",
+        "CharacterArmature|Run_Right",
+        "CharacterArmature|Run_Shoot",
+        "CharacterArmature|Sword_Slash"
+      ],
+      "geometryAndRetainedSamplesByteIdentical": true,
+      "sourceMetadata": "sources/worker-female.source.json"
+    }
+  ],
+  "optimization": "No lossy mesh or animation compression. Removed unneeded animation clips and unreachable accessor/bufferView payloads, then compacted GLB JSON/binary. All retained bufferView bytes verified equal to source.",
+  "licenseDocuments": [
+    {
+      "file": "licenses/CC0-1.0.txt",
+      "source": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+    },
+    {
+      "file": "licenses/CC-BY-3.0.txt",
+      "source": "https://creativecommons.org/licenses/by/3.0/legalcode.txt",
+      "sha256": "e6bc9e9c474700b708f568bac9e5a8a9bcb2b1dad53442f5ba449fcb848b8e76"
+    }
+  ]
+}
